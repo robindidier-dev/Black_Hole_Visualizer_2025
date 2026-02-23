@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Taichi cache
+.taichi/
+
+# Images & renders
+images/*.png
+images/*.jpg
+images/*.jpeg
+images/*.exr
+
+# Logs
+*.log
